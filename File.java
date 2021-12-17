@@ -1,15 +1,6 @@
-<<<<<<< HEAD
-public class File{
 
-private String name;
-
-
-}
-=======
 public class File{
 
 private int file_id;
 private String name;
-
 }
->>>>>>> e004ffe06c46f961a5568e2b22931190ce05f8b6
